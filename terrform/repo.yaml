@@ -1,0 +1,5 @@
+projects:
+  - name: project-hml
+    dir: src/environment/example
+  - name: project-prd
+    dir: src/environment/example
